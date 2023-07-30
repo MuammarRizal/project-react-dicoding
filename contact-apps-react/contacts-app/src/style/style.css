@@ -38,6 +38,9 @@ img {
   width: 64px;
   border-radius: 50%;
 }
+.contact-item__delete {
+  margin-left: auto;
+}
 
 .contact-item__body {
   margin-left: 8px;
